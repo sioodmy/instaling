@@ -4,6 +4,7 @@
 // @version      1.0
 // @description  imagine robic prace domową lmao.
 // @author       sioodmy
+// @downloadURL  https://raw.githubusercontent.com/sioodmy/instaling/refs/heads/main/instaling.js
 // @match        https://instaling.pl/ling2/*
 // @grant        GM_getValue
 // @grant        GM_setValue
