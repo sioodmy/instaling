@@ -1,3 +1,4 @@
+# Instaling.js
 # Instalacja
 1. Zainstaluj dodatek Violentmonkey do przeglądarki ([firefox](https://addons.mozilla.org/en-US/firefox/addon/violentmonkey/), [chrome](https://chromewebstore.google.com/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag))
 2. Otwórz ustawienia violentmonkey (ikonka małpki na pasku) i zębatka
