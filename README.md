@@ -7,17 +7,10 @@
 
 # FAQ
 ### Czy dostane za to bana?????
-może tak, może nie, ale wnioskując po jakości dostępnego kodu instalinga raczej nie. po prostu nie rób 98437543985743 sesji dziennie i będzie dobrze
+może tak, może nie, ale wnioskując po jakości dostępnego kodu instalinga raczej nie. po prostu nie rób 156 sesji dziennie i będzie dobrze
 
 ### Dlaczego tak wolno??
 Odstępy pomiędzy pytaniami są randomizowane i skrypt ma zaprogramowane 20% szans na celową pomyłke, by odpowiedzi nie wyglądały na zautomatyzowane
 
 ### Co jakby pozmieniać timeouty by było szybciej
 nie
-
-# Do pana Łukasza
-![image](https://github.com/user-attachments/assets/0d98aa7c-7080-447b-b8c8-8e2b05c142b0)
-
-coś wam nie idzie xdd
-  
-oferta dalej aktualna tho :33 
